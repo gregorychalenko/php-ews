@@ -1,5 +1,5 @@
 {
-    "name": "jamesiarmes/php-ews",
+    "name": "beraneck/php-ews",
     "type": "library",
     "description": "PHP Exchange Web Services",
     "keywords": ["exchange", "php"],
